@@ -1,6 +1,4 @@
 # Q.4 Write a Python function to get the largest number, smallest num and sum of all from a list. 
-
-
 def max_min_sum(numbers):
     largest = max(numbers)
     smallest = min(numbers)
